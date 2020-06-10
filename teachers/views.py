@@ -24,4 +24,4 @@ def user_login(request):
     return render(request, 'teachers/login.html', {'form': form})
 
 def home(request):
-    return render(request, 'teachers/index.html')
+    return render(request, 'teachers/home.html')
