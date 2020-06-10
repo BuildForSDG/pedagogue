@@ -1,0 +1,3150 @@
+.mediaViewInfo {
+	--web-view-name: Pedagogue;
+	--web-view-id: Pedagogue;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Pedagogue;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Pedagogue {
+	position: absolute;
+	width: 1920px;
+	height: 6475px;
+	background-color: rgba(252,252,252,1);
+	overflow: hidden;
+	--web-view-name: Pedagogue;
+	--web-view-id: Pedagogue;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#aishabolarinwa {
+	position: absolute;
+	width: 596px;
+	height: 515px;
+	left: 762px;
+	top: 108px;
+	overflow: visible;
+}
+#Rectangle_222 {
+	fill: rgba(225,214,234,1);
+}
+.Rectangle_222 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 582px;
+}
+#Rectangle_230 {
+	fill: rgba(246,239,250,1);
+	stroke: rgba(199,136,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_230 {
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 430px;
+	left: 424px;
+	top: 1892px;
+}
+#Rectangle_233 {
+	fill: rgba(246,239,250,1);
+	stroke: rgba(199,136,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_233 {
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 430px;
+	left: 424px;
+	top: 1466px;
+}
+#Rectangle_231 {
+	fill: rgba(246,239,250,1);
+	stroke: rgba(199,136,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_231 {
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 430px;
+	left: 961px;
+	top: 1892px;
+}
+#Rectangle_234 {
+	fill: rgba(246,239,250,1);
+	stroke: rgba(199,136,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_234 {
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 430px;
+	left: 961px;
+	top: 1466px;
+}
+#Rectangle_210 {
+	fill: rgba(93,37,137,1);
+}
+.Rectangle_210 {
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 33px;
+	left: 1476px;
+	top: 31px;
+}
+#Rectangle_218 {
+	fill: rgba(93,37,137,1);
+}
+.Rectangle_218 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 45px;
+	left: 278px;
+	top: 409px;
+}
+#Pedagogue_o {
+	left: 297px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(94,37,137,1);
+}
+#Top_10 {
+	left: 458px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Clients {
+	left: 569px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Community {
+	left: 665px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Blog {
+	left: 808px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#About_Us {
+	left: 880px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Login {
+	left: 1591px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Apply_as_a_Tutor {
+	left: 1290px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Hire {
+	left: 1500px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Hire_x {
+	left: 342px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Subtraction_1 {
+	fill: rgba(102,49,143,1);
+}
+.Subtraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 21.003px;
+	transform: matrix(1,0,0,1,278.9998,36.9996) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Hire_the_Top_10_of_Educators {
+	left: 278px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 426px;
+	height: 124px;
+	line-height: 50px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46px;
+	color: rgba(112,112,112,1);
+}
+#Pedagogue_is_an_exclusive_netw {
+	left: 278px;
+	top: 219px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	height: 178px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_221 {
+	opacity: 0.08;
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_221 {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 287px;
+	left: 1341px;
+	top: 208px;
+}
+#TRUSTED_BY_LEADING_INSTITUTION {
+	left: 278px;
+	top: 599px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(94,37,137,1);
+}
+#LukmanAdeoti {
+	position: absolute;
+	width: 246px;
+	height: 213px;
+	left: 300px;
+	top: 712px;
+	overflow: visible;
+}
+#Mr-Femi {
+	position: absolute;
+	width: 246px;
+	height: 213px;
+	left: 568px;
+	top: 712px;
+	overflow: visible;
+}
+#ID00aa1 {
+	position: absolute;
+	width: 247px;
+	height: 213px;
+	left: 835px;
+	top: 712px;
+	overflow: visible;
+}
+#aishabolarinwa_ {
+	position: absolute;
+	width: 246px;
+	height: 213px;
+	left: 1103px;
+	top: 712px;
+	overflow: visible;
+}
+#FB_IMG_15856746417999093 {
+	position: absolute;
+	width: 246px;
+	height: 213px;
+	left: 1371px;
+	top: 712px;
+	overflow: visible;
+}
+#icon {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 1237px;
+	top: 41px;
+	overflow: visible;
+}
+#line {
+	fill: transparent;
+	stroke: rgba(93,37,137,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.line {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 3.784px;
+	transform: translate(-1489px, -1036px) matrix(1,0,0,1,1501.6622,1046.7703) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ellipse {
+	fill: transparent;
+	stroke: rgba(93,37,137,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ellipse {
+	position: absolute;
+	overflow: visible;
+	width: 11.35px;
+	height: 11.35px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_awesome-chevron-left {
+	fill: rgba(94,37,137,1);
+}
+.Icon_awesome-chevron-left {
+	overflow: visible;
+	position: absolute;
+	width: 20.704px;
+	height: 34.116px;
+	left: 278px;
+	top: 797px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-chevron-left_bc {
+	fill: rgba(94,37,137,1);
+}
+.Icon_awesome-chevron-left_bc {
+	overflow: visible;
+	position: absolute;
+	width: 20.704px;
+	height: 34.116px;
+	left: 1621.296px;
+	top: 797px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lawrence_Akpai {
+	left: 300px;
+	top: 936px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Akpan_Prosper {
+	left: 568px;
+	top: 936px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Icon_material-switch-camera {
+	fill: transparent;
+	stroke: rgba(146,156,156,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_material-switch-camera {
+	overflow: visible;
+	position: absolute;
+	width: 24.667px;
+	height: 22.4px;
+	left: 301.667px;
+	top: 970.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#English_Teacher {
+	left: 336px;
+	top: 969px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Mathematician {
+	left: 592px;
+	top: 969px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Icon_simple-wolframmathematica {
+	fill: rgba(146,156,156,1);
+}
+.Icon_simple-wolframmathematica {
+	overflow: visible;
+	position: absolute;
+	width: 19.94px;
+	height: 20.971px;
+	left: 568.047px;
+	top: 970.514px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#George_Onuoah {
+	left: 835px;
+	top: 936px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Mariam_Ogunjobi {
+	left: 1106px;
+	top: 936px;
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Chemist {
+	left: 859px;
+	top: 969px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Physicist {
+	left: 1130px;
+	top: 969px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Icon_simple-wolframmathematica_bn {
+	fill: rgba(146,156,156,1);
+}
+.Icon_simple-wolframmathematica_bn {
+	overflow: visible;
+	position: absolute;
+	width: 19.94px;
+	height: 20.971px;
+	left: 835.047px;
+	top: 970.514px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-wolframmathematica_bo {
+	fill: rgba(146,156,156,1);
+}
+.Icon_simple-wolframmathematica_bo {
+	overflow: visible;
+	position: absolute;
+	width: 19.94px;
+	height: 20.971px;
+	left: 1106.047px;
+	top: 970.514px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#John_Adeyemi {
+	left: 1369px;
+	top: 936px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Historian {
+	left: 1395px;
+	top: 969px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Icon_simple-wolframmathematica_br {
+	fill: rgba(146,156,156,1);
+}
+.Icon_simple-wolframmathematica_br {
+	overflow: visible;
+	position: absolute;
+	width: 19.94px;
+	height: 20.971px;
+	left: 1371.047px;
+	top: 970.514px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Take_Advantage_of_Well_Trained {
+	left: 626px;
+	top: 1175px;
+	position: absolute;
+	overflow: visible;
+	width: 669px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(102,49,143,1);
+}
+#Icon_ionic-ios-contract {
+	position: absolute;
+	width: 66.877px;
+	height: 66.86px;
+	left: 500.123px;
+	top: 1590.62px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 30.364px;
+	height: 30.391px;
+	left: 0.017px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 30.56px;
+	height: 30.391px;
+	left: 37.496px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 30.578px;
+	height: 30.391px;
+	left: 0px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 30.382px;
+	height: 30.391px;
+	left: 37.478px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-contract_by {
+	position: absolute;
+	width: 66.877px;
+	height: 66.86px;
+	left: 500.123px;
+	top: 1996.62px;
+	overflow: visible;
+}
+#Path_1_bz {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_bz {
+	overflow: visible;
+	position: absolute;
+	width: 30.364px;
+	height: 30.391px;
+	left: 0.017px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_b {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2_b {
+	overflow: visible;
+	position: absolute;
+	width: 30.56px;
+	height: 30.391px;
+	left: 37.496px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_b {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3_b {
+	overflow: visible;
+	position: absolute;
+	width: 30.578px;
+	height: 30.391px;
+	left: 0px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_b {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4_b {
+	overflow: visible;
+	position: absolute;
+	width: 30.382px;
+	height: 30.391px;
+	left: 37.478px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-contract_b {
+	position: absolute;
+	width: 66.877px;
+	height: 66.86px;
+	left: 1047.123px;
+	top: 1590.62px;
+	overflow: visible;
+}
+#Path_1_b {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 30.364px;
+	height: 30.391px;
+	left: 0.017px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_ca {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2_ca {
+	overflow: visible;
+	position: absolute;
+	width: 30.56px;
+	height: 30.391px;
+	left: 37.495px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_ca {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3_ca {
+	overflow: visible;
+	position: absolute;
+	width: 30.578px;
+	height: 30.391px;
+	left: 0px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_ca {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4_ca {
+	overflow: visible;
+	position: absolute;
+	width: 30.382px;
+	height: 30.391px;
+	left: 37.478px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-contract_ca {
+	position: absolute;
+	width: 66.877px;
+	height: 66.86px;
+	left: 1047.123px;
+	top: 1996.62px;
+	overflow: visible;
+}
+#Path_1_ca {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_ca {
+	overflow: visible;
+	position: absolute;
+	width: 30.364px;
+	height: 30.391px;
+	left: 0.017px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_cb {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2_cb {
+	overflow: visible;
+	position: absolute;
+	width: 30.56px;
+	height: 30.391px;
+	left: 37.495px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_cb {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3_cb {
+	overflow: visible;
+	position: absolute;
+	width: 30.578px;
+	height: 30.391px;
+	left: 0px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_cc {
+	fill: transparent;
+	stroke: rgba(94,40,134,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4_cc {
+	overflow: visible;
+	position: absolute;
+	width: 30.382px;
+	height: 30.391px;
+	left: 37.478px;
+	top: 37.469px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 655.5px;
+	top: 1356px;
+	position: absolute;
+	overflow: hidden;
+	width: 610px;
+	height: 81px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ce {
+	left: 503px;
+	top: 1731px;
+	position: absolute;
+	overflow: hidden;
+	width: 341px;
+	height: 81px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Lorem_ipsum_dolor_sit_amet_con_cf {
+	left: 503px;
+	top: 2144px;
+	position: absolute;
+	overflow: hidden;
+	width: 341px;
+	height: 81px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Lorem_ipsum_dolor_sit_amet_con_cg {
+	left: 1050px;
+	top: 1731px;
+	position: absolute;
+	overflow: hidden;
+	width: 341px;
+	height: 81px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ch {
+	left: 1050px;
+	top: 2144px;
+	position: absolute;
+	overflow: hidden;
+	width: 341px;
+	height: 81px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Researchers {
+	left: 491px;
+	top: 1678px;
+	position: absolute;
+	overflow: hidden;
+	width: 190px;
+	height: 32px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(102,49,143,1);
+}
+#Researchers_cj {
+	left: 491px;
+	top: 2084px;
+	position: absolute;
+	overflow: hidden;
+	width: 190px;
+	height: 32px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(102,49,143,1);
+}
+#Researchers_ck {
+	left: 1038px;
+	top: 1678px;
+	position: absolute;
+	overflow: hidden;
+	width: 190px;
+	height: 32px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(102,49,143,1);
+}
+#Researchers_cl {
+	left: 1038px;
+	top: 2084px;
+	position: absolute;
+	overflow: hidden;
+	width: 190px;
+	height: 32px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(102,49,143,1);
+}
+#Build_Fortress_of_Teachers_On_ {
+	left: 291px;
+	top: 2416px;
+	position: absolute;
+	overflow: visible;
+	width: 693px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(102,49,143,1);
+}
+#Swiftly_assemble_the_teachers_ {
+	left: 291px;
+	top: 2589px;
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(102,49,143,1);
+}
+#Hire_Swiftly {
+	left: 673px;
+	top: 2749px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(102,49,143,1);
+}
+#Hire_Swiftly_cp {
+	left: 673px;
+	top: 3014px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(102,49,143,1);
+}
+#The_Top_10 {
+	left: 291px;
+	top: 2749px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(102,49,143,1);
+}
+#The_Top_10_cr {
+	left: 291px;
+	top: 3014px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(102,49,143,1);
+}
+#Every_applicant_to_the_Pedagog {
+	left: 291px;
+	top: 2818px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 116px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(102,49,143,1);
+}
+#Every_applicant_to_the_Pedagog_ct {
+	left: 291px;
+	top: 3083px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 116px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(102,49,143,1);
+}
+#Hire_in_under_48_hours_Scale_u {
+	left: 675px;
+	top: 2818px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 116px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(102,49,143,1);
+}
+#Hire_in_under_48_hours_Scale_u_cv {
+	left: 675px;
+	top: 3083px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 116px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(102,49,143,1);
+}
+#FB_IMG_15856746417999093_cw {
+	position: absolute;
+	width: 312px;
+	height: 390px;
+	left: 1368px;
+	top: 2840px;
+	overflow: visible;
+}
+#Rectangle_237 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_237 {
+	filter: drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 463px;
+	left: 1372px;
+	top: 2835px;
+}
+#LukmanAdeoti_cy {
+	position: absolute;
+	width: 268px;
+	height: 260px;
+	left: 1386px;
+	top: 2844px;
+	overflow: visible;
+}
+#Rectangle_238 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_238 {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 183px;
+	left: 1372px;
+	top: 3097px;
+}
+#Lawrence_Akpai_c {
+	left: 1384px;
+	top: 3110px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#English_Teacher_c {
+	left: 1415px;
+	top: 3143px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Previously_at_Mayflower {
+	left: 1386px;
+	top: 3197px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Icon_material-switch-camera_c {
+	fill: transparent;
+	stroke: rgba(146,156,156,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_material-switch-camera_c {
+	overflow: visible;
+	position: absolute;
+	width: 24.667px;
+	height: 22.4px;
+	left: 1385.667px;
+	top: 3145.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7 {
+	position: absolute;
+	width: 289px;
+	height: 445px;
+	left: 1057px;
+	top: 2416px;
+	overflow: visible;
+}
+#Rectangle_237_c {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_237_c {
+	filter: drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 463px;
+	left: 0px;
+	top: 0px;
+}
+#FB_IMG_15856746417999093_c {
+	position: absolute;
+	width: 268px;
+	height: 336px;
+	left: 11px;
+	top: 28px;
+	overflow: visible;
+}
+#Rectangle_238_c {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_238_c {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 183px;
+	left: 0px;
+	top: 262px;
+}
+#John_Adeyemi_c {
+	left: 10px;
+	top: 275px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#English_Teacher_da {
+	left: 43px;
+	top: 308px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Previously_at_Mayflower_da {
+	left: 14px;
+	top: 362px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,0.71);
+}
+#Icon_material-switch-camera_db {
+	fill: transparent;
+	stroke: rgba(146,156,156,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_material-switch-camera_db {
+	overflow: visible;
+	position: absolute;
+	width: 24.667px;
+	height: 22.4px;
+	left: 13.667px;
+	top: 311.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rainbows_apologize_for_angry_s {
+	left: -777px;
+	top: 881px;
+	position: absolute;
+	overflow: visible;
+	width: 801px;
+	height: 200px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#We_must_become_the_change_we_w {
+	left: -678px;
+	top: 454px;
+	position: absolute;
+	overflow: visible;
+	width: 801px;
+	height: 200px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Love_is_rarer_than_genius_itse {
+	left: -678px;
+	top: 423px;
+	position: absolute;
+	overflow: visible;
+	width: 801px;
+	height: 200px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Hiring_Made_Easy {
+	left: 766.333px;
+	top: 3396px;
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,0.71);
+}
+#Work_With_Certified_Talents {
+	left: 832.333px;
+	top: 3688px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(0,0,0,0.71);
+}
+#Talk_to_One_of_Our_Teaching_Ex {
+	left: 382.333px;
+	top: 3688px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(0,0,0,0.71);
+}
+#The_Right_Hand_Guaranteed {
+	left: 1318.333px;
+	top: 3688px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(0,0,0,0.71);
+}
+#Work_with_your_new_team_member {
+	left: 1204.333px;
+	top: 3799px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,0.71);
+}
+#Within_days_we_will_introduce_ {
+	left: 761.333px;
+	top: 3799px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,0.71);
+}
+#An_expert_on_your_team_will_wo {
+	left: 325.333px;
+	top: 3799px;
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,0.71);
+}
+#Ellipse_4 {
+	fill: transparent;
+	stroke: rgba(88,31,131,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	height: 91px;
+	left: 475.333px;
+	top: 3546px;
+}
+#Ellipse_5 {
+	fill: transparent;
+	stroke: rgba(88,31,131,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 91px;
+	left: 914px;
+	top: 3546px;
+}
+#Ellipse_6 {
+	fill: transparent;
+	stroke: rgba(88,31,131,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	height: 91px;
+	left: 1375.333px;
+	top: 3546px;
+}
+#Path_10 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 216.995px;
+	top: 3591.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_18 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 1485.995px;
+	top: 3591.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 521.995px;
+	top: 3591.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 17.461px;
+	height: 35.882px;
+	left: 443.667px;
+	top: 3577.2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_20 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 17.461px;
+	height: 35.882px;
+	left: 1643.667px;
+	top: 3577.2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 17.461px;
+	height: 35.882px;
+	left: 881.533px;
+	top: 3577.2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_16 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 17.461px;
+	height: 35.882px;
+	left: 1342.533px;
+	top: 3577.2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_12 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 177.067px;
+	height: 1px;
+	left: 282px;
+	top: 3593.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_19 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 177.067px;
+	height: 1px;
+	left: 1482px;
+	top: 3593.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 330.6px;
+	height: 1px;
+	left: 566.333px;
+	top: 3593.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_17 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 353.6px;
+	height: 1px;
+	left: 1004.333px;
+	top: 3593.8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID1 {
+	left: 512px;
+	top: 3569px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(70,4,121,1);
+}
+#ID2 {
+	left: 950px;
+	top: 3569px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(70,4,121,1);
+}
+#ID3 {
+	left: 1415px;
+	top: 3569px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(70,4,121,1);
+}
+#Mask_Group_2 {
+	position: absolute;
+	width: 490px;
+	height: 328px;
+	left: 203px;
+	top: 4301px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 490px;
+	height: 328px;
+	left: 715px;
+	top: 4301px;
+	overflow: visible;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 490px;
+	height: 328px;
+	left: 1227px;
+	top: 4301px;
+	overflow: visible;
+}
+#Lawrence_Akpai_d {
+	left: 240px;
+	top: 4655px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Lawrence_Akpai_ea {
+	left: 747px;
+	top: 4655px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#Lawrence_Akpai_eb {
+	left: 1250px;
+	top: 4655px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(94,37,137,1);
+}
+#English_Teacher_d {
+	left: 240px;
+	top: 4688px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(147,147,147,0.71);
+}
+#English_Teacher_ea {
+	left: 747px;
+	top: 4688px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(147,147,147,0.71);
+}
+#English_Teacher_eb {
+	left: 1250px;
+	top: 4688px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(147,147,147,0.71);
+}
+#Lawrence_is_a_highly_efficient {
+	left: 240px;
+	top: 4724px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Lawrence_is_a_highly_efficient_ed {
+	left: 747px;
+	top: 4724px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Lawrence_is_a_highly_efficient_ee {
+	left: 1250px;
+	top: 4724px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,0.71);
+}
+#Group_3 {
+	position: absolute;
+	width: 1090px;
+	height: 57px;
+	left: 415px;
+	top: 4177px;
+	overflow: visible;
+}
+#Chemists {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(189,189,189,1);
+}
+#Physicists {
+	left: 213px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(189,189,189,1);
+}
+#Mathematicians {
+	left: 415px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(189,189,189,1);
+}
+#English_Tutors {
+	left: 683px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(189,189,189,1);
+}
+#Historians {
+	left: 962px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(189,189,189,1);
+}
+#Rectangle_243 {
+	fill: rgba(88,31,131,1);
+}
+.Rectangle_243 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 3px;
+	left: 0px;
+	top: 54px;
+}
+#Meet_Teachers_in_Our_Network {
+	left: 589px;
+	top: 4048px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(103,103,103,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 1920px;
+	height: 564px;
+	left: 0px;
+	top: 5915px;
+	overflow: visible;
+}
+#Rectangle_239 {
+	fill: rgba(70,4,121,0.729);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_239 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 564px;
+	left: 0px;
+	top: 0px;
+}
+#Most_In-Demand_Tutors {
+	left: 277px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.71);
+}
+#Contact {
+	left: 625px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.71);
+}
+#About {
+	left: 974px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.71);
+}
+#Social {
+	left: 1333px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.71);
+}
+#Elementary_Teachers_Science_Tu {
+	left: 277px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,0.71);
+}
+#Contact_Us_Press_Center_Career {
+	left: 625px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,0.71);
+}
+#About_Top_10_Clients_Specializ {
+	left: 974px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,0.71);
+}
+#Path_6 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 278.848px;
+	height: 1px;
+	left: 277px;
+	top: 174px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 278.848px;
+	height: 1px;
+	left: 625px;
+	top: 174px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 278.848px;
+	height: 1px;
+	left: 974px;
+	top: 174px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 278.848px;
+	height: 1px;
+	left: 1333px;
+	top: 174px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#rgba31692441 {
+	fill: rgba(255,255,255,1);
+}
+.rgba31692441 {
+	overflow: visible;
+	position: absolute;
+	width: 38.179px;
+	height: 31.419px;
+	left: 1343px;
+	top: 208px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 40.912px;
+	height: 25.57px;
+	left: 1548px;
+	top: 211px;
+	overflow: visible;
+}
+#rgba2446754098 {
+	fill: rgba(255,255,255,1);
+}
+.rgba2446754098 {
+	overflow: visible;
+	position: absolute;
+	width: 25.57px;
+	height: 25.57px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#rgba2446754098_e {
+	fill: rgba(255,255,255,1);
+}
+.rgba2446754098_e {
+	overflow: visible;
+	position: absolute;
+	width: 12.785px;
+	height: 12.785px;
+	left: 28.127px;
+	top: 5.114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Union_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Union_3 {
+	overflow: visible;
+	position: absolute;
+	width: 32.419px;
+	height: 32.419px;
+	left: 1477px;
+	top: 208px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#rgba251182101 {
+	fill: rgba(255,255,255,1);
+}
+.rgba251182101 {
+	overflow: visible;
+	position: absolute;
+	width: 15.71px;
+	height: 31.419px;
+	left: 1421px;
+	top: 208px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Subtraction_2 {
+	fill: rgba(255,255,255,1);
+}
+.Subtraction_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 24px;
+	transform: matrix(1,0,0,1,739.9996,4581.9997) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_4 {
+	position: absolute;
+	width: 1342.361px;
+	height: 267px;
+	left: 240px;
+	top: 5123px;
+	overflow: visible;
+}
+#Pedagogue_Teachers {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_e {
+	left: 0px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fa {
+	left: 385px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fb {
+	left: 770px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fc {
+	left: 1155px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_fd {
+	left: 0px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_fe {
+	left: 385px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_ff {
+	left: 770px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_fg {
+	left: 1155px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_fh {
+	left: 0px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_fi {
+	left: 385px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_fj {
+	left: 770px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_fk {
+	left: 1155px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_fl {
+	left: 1155px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_fm {
+	left: 0px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_fn {
+	left: 385px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_fo {
+	left: 770px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_fp {
+	left: 1155px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_fq {
+	left: 0px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_fr {
+	left: 385px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_fs {
+	left: 770px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#View_More_Tutors {
+	left: 1155px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(88,31,131,1);
+}
+#Icon_material-arrow-forward {
+	fill: rgba(88,31,131,1);
+}
+.Icon_material-arrow-forward {
+	overflow: visible;
+	position: absolute;
+	width: 13.069px;
+	height: 13.069px;
+	left: 1329.294px;
+	top: 248.931px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_5 {
+	position: absolute;
+	width: 1342.361px;
+	height: 267px;
+	left: 240px;
+	top: 5504px;
+	overflow: visible;
+}
+#Pedagogue_Teachers_fw {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fx {
+	left: 0px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fy {
+	left: 385px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_fz {
+	left: 770px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#English_Tutors_f {
+	left: 1155px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_f {
+	left: 0px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_ga {
+	left: 385px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_gb {
+	left: 770px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mathematicians_gc {
+	left: 1155px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_f {
+	left: 0px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_ga {
+	left: 385px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_gb {
+	left: 770px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_gc {
+	left: 1155px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_gd {
+	left: 0px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_ge {
+	left: 385px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_gf {
+	left: 770px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Physicist_gg {
+	left: 1155px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_gd {
+	left: 0px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_ge {
+	left: 385px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_gf {
+	left: 770px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Chemists_gg {
+	left: 1155px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_gh {
+	left: 0px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_gi {
+	left: 385px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Historians_gj {
+	left: 770px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#View_More_Tutors_gk {
+	left: 1155px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(88,31,131,1);
+}
+#Icon_material-arrow-forward_gl {
+	fill: rgba(88,31,131,1);
+}
+.Icon_material-arrow-forward_gl {
+	overflow: visible;
+	position: absolute;
+	width: 13.069px;
+	height: 13.069px;
+	left: 1329.294px;
+	top: 248.931px;
+	transform: matrix(1,0,0,1,0,0);
+}
