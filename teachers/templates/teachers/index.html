@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pedagogue</title>
-</head>
-<body>
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
 <div id="Pedagogue">
-	<img id="aishabolarinwa" src="{% static 'images/aishabolarinwa.png' %}" srcset="images/aishabolarinwa.png 1x, images/aishabolarinwa@2x.png 2x">
+	<img id="aishabolarinwa" src="{% static 'images/aishabolarinwa.png' %}" srcset="{% static 'images/aishabolarinwa.png' %} 1x, {% static 'images/aishabolarinwa@2x.png' %} 2x">
 	<svg class="Rectangle_222">
 		<rect id="Rectangle_222" rx="0" ry="0" x="0" y="0" width="1920" height="98">
 		</rect>
@@ -84,11 +79,11 @@
 	<div id="TRUSTED_BY_LEADING_INSTITUTION">
 		<span>TRUSTED BY LEADING<br/>INSTITUTIONS</span>
 	</div>
-	<img id="LukmanAdeoti" src="images/LukmanAdeoti.png" srcset="images/LukmanAdeoti.png 1x, images/LukmanAdeoti@2x.png 2x">
-	<img id="Mr-Femi" src="images/Mr-Femi.png" srcset="images/Mr-Femi.png 1x, images/Mr-Femi@2x.png 2x">
-	<img id="ID00aa1" src="images/ID00aa1.png" srcset="images/ID00aa1.png 1x, images/ID00aa1@2x.png 2x">
-	<img id="aishabolarinwa_" src="images/aishabolarinwa_.png" srcset="images/aishabolarinwa_.png 1x, images/aishabolarinwa_@2x.png 2x">
-	<img id="FB_IMG_15856746417999093" src="images/FB_IMG_15856746417999093.png" srcset="images/FB_IMG_15856746417999093.png 1x, images/FB_IMG_15856746417999093@2x.png 2x">
+	<img id="LukmanAdeoti" src="{% static 'images/LukmanAdeoti.png' %}" srcset="{% static 'images/LukmanAdeoti.png' %} 1x, {% static 'images/LukmanAdeoti@2x.png' %} 2x">
+	<img id="Mr-Femi" src="{% static 'images/Mr-Femi.png' %}" srcset="{% static 'images/Mr-Femi.png' %} 1x, {% static 'images/Mr-Femi@2x.png' %} 2x">
+	<img id="ID00aa1" src="{% static 'images/ID00aa1.png' %}" srcset="{% static 'images/ID00aa1.png' %} 1x, {% static 'images/ID00aa1@2x.png' %} 2x">
+	<img id="aishabolarinwa_" src="{% static 'images/aishabolarinwa_.png' %}" srcset="{% static 'images/aishabolarinwa_.png' %} 1x, {% static 'images/aishabolarinwa_@2x.png' %} 2x">
+	<img id="FB_IMG_15856746417999093" src="{% static 'images/FB_IMG_15856746417999093.png' %}" srcset="{% static 'images/FB_IMG_15856746417999093.png' %} 1x, {% static 'images/FB_IMG_15856746417999093@2x.png' %} 2x">
 	<div id="icon">
 		<svg class="line" viewBox="0 0 2 3.784">
 			<path id="line" d="M 0 0 L 0 3.783802509307861">
@@ -289,12 +284,12 @@
 	<div id="Hire_in_under_48_hours_Scale_u_cv">
 		<span>Hire in under 48 hours. Scale up or down, no strings attached. We offer flexible full-time engagement.</span>
 	</div>
-	<img id="FB_IMG_15856746417999093_cw" src="images/FB_IMG_15856746417999093_cw.png" srcset="images/FB_IMG_15856746417999093_cw.png 1x, images/FB_IMG_15856746417999093_cw@2x.png 2x">
+	<img id="FB_IMG_15856746417999093_cw" src="{% static 'images/FB_IMG_15856746417999093_cw.png' %}" srcset="{% static 'images/FB_IMG_15856746417999093_cw.png' %} 1x, {% static 'images/FB_IMG_15856746417999093_cw@2x.png' %} 2x">
 	<svg class="Rectangle_237">
 		<rect id="Rectangle_237" rx="0" ry="0" x="0" y="0" width="289" height="445">
 		</rect>
 	</svg>
-	<img id="LukmanAdeoti_cy" src="images/LukmanAdeoti_cy.png" srcset="images/LukmanAdeoti_cy.png 1x, images/LukmanAdeoti_cy@2x.png 2x">
+	<img id="LukmanAdeoti_cy" src="{% static 'images/LukmanAdeoti_cy.png' %}" srcset="{% static 'images/LukmanAdeoti_cy.png' %} 1x, {% static 'images/LukmanAdeoti_cy@2x.png' %} 2x">
 	<svg class="Rectangle_238">
 		<rect id="Rectangle_238" rx="0" ry="0" x="0" y="0" width="289" height="183">
 		</rect>
@@ -317,7 +312,7 @@
 			<rect id="Rectangle_237_c" rx="0" ry="0" x="0" y="0" width="289" height="445">
 			</rect>
 		</svg>
-		<img id="FB_IMG_15856746417999093_c" src="images/FB_IMG_15856746417999093_c.png" srcset="images/FB_IMG_15856746417999093_c.png 1x, images/FB_IMG_15856746417999093_c@2x.png 2x">
+		<img id="FB_IMG_15856746417999093_c" src="{% static 'images/FB_IMG_15856746417999093_c.png' %}" srcset="{% static 'images/FB_IMG_15856746417999093_c.png' %} 1x, {% static 'images/FB_IMG_15856746417999093_c@2x.png' %} 2x">
 		<svg class="Rectangle_238_c">
 			<rect id="Rectangle_238_c" rx="0" ry="0" x="0" y="0" width="289" height="183">
 			</rect>
@@ -436,21 +431,21 @@
 			<pattern elementId="Mask_Group_2_gm" id="Mask_Group_2_gm_pattern" x="0" y="0" width="100%" height="100%">
 				<image x="0" y="0" width="100%" height="100%" href="Mask_Group_2_gm_pattern.png" xlink:href="Mask_Group_2_gm_pattern.png"></image>
 			</pattern>
-			<img id="Mask_Group_2" src="images/Mask_Group_2.png" srcset="images/Mask_Group_2.png 1x, images/Mask_Group_2@2x.png 2x">
+			<img id="Mask_Group_2" src="{% static 'images/Mask_Group_2.png' %}" srcset="{% static 'images/Mask_Group_2.png' %} 1x, {% static 'images/Mask_Group_2@2x.png' %} 2x">
 			</svg>
 	<svg style="width:inherit;height:inherit;overflow:visible;">
 		<rect fill="url(#Mask_Group_1_gn_pattern)" width="100%" height="100%"></rect>
 			<pattern elementId="Mask_Group_1_gn" id="Mask_Group_1_gn_pattern" x="0" y="0" width="100%" height="100%">
 				<image x="0" y="0" width="100%" height="100%" href="Mask_Group_1_gn_pattern.png" xlink:href="Mask_Group_1_gn_pattern.png"></image>
 			</pattern>
-			<img id="Mask_Group_1" src="images/Mask_Group_1.png" srcset="images/Mask_Group_1.png 1x, images/Mask_Group_1@2x.png 2x">
+			<img id="Mask_Group_1" src="{% static 'images/Mask_Group_1.png' %}" srcset="{% static 'images/Mask_Group_1.png' %} 1x, {% static 'images/Mask_Group_1@2x.png' %} 2x">
 			</svg>
 	<svg style="width:inherit;height:inherit;overflow:visible;">
 		<rect fill="url(#Mask_Group_3_go_pattern)" width="100%" height="100%"></rect>
 			<pattern elementId="Mask_Group_3_go" id="Mask_Group_3_go_pattern" x="0" y="0" width="100%" height="100%">
 				<image x="0" y="0" width="100%" height="100%" href="Mask_Group_3_go_pattern.png" xlink:href="Mask_Group_3_go_pattern.png"></image>
 			</pattern>
-			<img id="Mask_Group_3" src="images/Mask_Group_3.png" srcset="images/Mask_Group_3.png 1x, images/Mask_Group_3@2x.png 2x">
+			<img id="Mask_Group_3" src="{% static 'images/Mask_Group_3.png' %}" srcset="{% static 'images/Mask_Group_3.png' %} 1x, {% static 'images/Mask_Group_3@2x.png' %} 2x">
 			</svg>
 	<div id="Lawrence_Akpai_d">
 		<span>Lawrence Akpai</span>
@@ -726,5 +721,4 @@
 		</svg>
 	</div>
 </div>
-</body>
-</html>
+{% endblock %}
