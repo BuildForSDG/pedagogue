@@ -1,0 +1,17 @@
+{% extends "root.html" %}
+{% block title %}Logged out{% endblock %}
+{% block content %}
+<!-- ======= Skills Section ======= -->
+<section id="skills" class="skills section-bg">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Logged out</h2>
+        <p>
+            You have been successfully logged out.
+            You can <a class="btn btn-dark" href="{% url 'login' %}">log-in again</a>.
+        </p>
+      
+      </div>
+
+{% endblock %}
