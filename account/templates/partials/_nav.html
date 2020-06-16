@@ -1,0 +1,31 @@
+  {% load static %}
+  <!-- ======= Mobile nav toggle button ======= -->
+  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+
+    <nav class="nav-menu">
+      <ul>
+        <li class="active"><a href=""><img src="{% static 'logos/iconnobg.png' %}" alt="Logo" width="60" height="50" style="float:left"><span>Pedagogue</span></a></li>
+        <!-- <li><a href="#portfolio"><i class="bx bx-book-content"></i> <span>Lo</span></a></li>
+        <li><a href=""><i class="bx bx-user"></i> <span>Manage Courses</span></a></li>
+        <li><a href=""><i class="bx bx-user"></i> <span>My Courses</span></a></li>
+        <li><a href=""><i class="bx bx-conversation"></i> <span>Blog</span></a></li>
+        <li><a href="#about"><i class="bx bx-envelope"></i> <span>About Us</span></a></li>
+        <li><a href=""><i class="bx bxs-compass"></i> <span>Contact</span></a></li> -->
+        <li><a href="{% url 'dashboard' %}"><i class="bx bx-log-in"></i> <span>Apply as Teacher</span></a></li>
+        <li><a href="{% url 'dashboard' %}"><i class="bx bx-hive"></i> <span>Hire</span></a></li>
+
+        {% if user.is_authenticated %}
+        <li><a href="{% url 'dashboard' %}"><i class="bx bx-user"></i> <span>Dashboard</span></a></li>
+        <li><a href="{% url 'logout' %}"><i class="bx bx-log-out"></i> <span>Logout</span></a></li>
+        
+        {% else %}
+        <li><a href="{% url 'login' %}"><i class="bx bx-log-in"></i> <span>Login</span></a></li>
+        {% endif %}
+
+      </ul>
+    </nav><!-- .nav-menu -->
+
+  </header><!-- End Header -->

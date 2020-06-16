@@ -1,0 +1,20 @@
+{% extends "root.html" %}
+
+{% block title %}Contact Us{% endblock %}
+
+{% block content %}
+<section id="hero" class="d-flex flex-column justify-content-center">
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+        <form method="post">
+            {% csrf_token %}
+            <div class="input-group date" id="datetimepicker1" data-target-input="nearest">
+                <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
+                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                </div>
+                {{ form.date }}
+            </div>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+  </section><!-- End Hero -->
+{% endblock %}

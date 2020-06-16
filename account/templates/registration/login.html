@@ -1,0 +1,33 @@
+{% extends "root.html" %}
+{% block title %}Log-in{% endblock %}
+{% block content %}
+<!-- ======= Skills Section ======= -->
+<section id="skills" class="skills section-bg">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Log-in</h2>
+        {% if form.errors %}
+        <p>Your username and password didn't match
+          Please try again.
+        </p>
+        {% else %}
+        <p>Please, use the following form to log-in. If you don't have an
+          account <a class="btn btn-primary" href="{% url 'register' %}">Register here</a></p>
+        {% endif %}
+      </div>
+
+      <div class="row skills-content">
+        <form action="{% url 'login' %}" method="post">
+            {{ form.as_p }}
+            {% csrf_token %}
+            <input type="hidden" name="next" value="{{ next }}">
+            <p><input class="btn btn-dark" type="submit" value="Log in"></p>
+          <p><a href="{% url 'password_reset' %}" class="btn btn-dark">Forgotten your password?</a></
+
+        </form>
+      </div>
+    </div>
+</section>
+
+{% endblock %}

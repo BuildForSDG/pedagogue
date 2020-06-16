@@ -13,3 +13,6 @@ Git
 - Install requirement file `pip install -r requirements.txt`.
 - Run migrations `python manage.py migrgate`
 - Run server `python manage.py runserver`
+
+## Project Overview
+[![PEDAGOGUE](http://img.youtube.com/vi/M4A2N2XuNx0/0.jpg)](http://www.youtube.com/watch?v=M4A2N2XuNx0)
