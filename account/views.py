@@ -1,11 +1,13 @@
 from django.http import HttpResponse
 from django.shortcuts import render
 from django.contrib.auth import authenticate, login
-from .forms import LoginForm, UserRegistrationForm, UserEditForm, ProfileEditForm
+from .forms import LoginForm, UserRegistrationForm , ContactForm, UserEditForm, ProfileEditForm
 
 from django.contrib.auth.decorators import login_required
 from .models import Profile
 from django.contrib import messages
+from django.core.mail import send_mail
+
 
 def user_login(request):
     if request.method == 'POST':
@@ -76,3 +78,23 @@ def edit(request):
                     'account/edit.html',
                         {'user_form': user_form,
                             'profile_form': profile_form})
+
+def contact(request):
+    if request.method == 'POST':
+        form = ContactForm(request.POST)
+
+        #send mail
+        sender_name = request.user.username
+        sender_email = request.user.email
+
+        message = "{0} has requested an interview at {1}".format(sender_name, form['date'])
+        send_mail('New Enquiry', message, sender_email, ['osasisorae@gmail.com'])
+        return HttpResponse("Thanks for wanting to be part of pedagogue, we get back to you within 24 hours")
+
+    else:
+        form = ContactForm()
+
+    context = {
+        'form': form
+    }
+    return render(request, 'account/contact.html', context)
